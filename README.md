@@ -1,1 +1,1 @@
-# Finalprojectstoich
+# Finalprojectsudoku
